@@ -6,7 +6,7 @@
 - Amazon Alexa
 
 ## 目的
-AWSとOpenCVを用いて入退室管理を行う．
+Amazon Web Service, Amazon alexa, Raspberry Piを使用した，顔認識による入退室管理
 ## 未実装
 - データベース
 - 退出判定
